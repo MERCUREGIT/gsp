@@ -1,0 +1,23 @@
+{
+    "home":{
+        "about": {
+            "description":"Global Services and Printing is a consulting firm in radio frequency engineering and printing located in Cameroon. We offer our customers a diverse range of products and services in the fields of printing and radio frequency engineering.",
+            "points":[
+                "There are many variations of passages of LoreIpsum available, but the majority have suffered",
+                "There are many variations of passages of LoreIpsum available, but the majority have suffered"
+            ]
+        },
+        
+        "bannerslide":[
+            { "img": "../../../assets/img/banner/02.jpg", "title": "Take Great Idea To /n Growth Your  Business", "text": "Sedut perspiciatis unde omnis iste natus error sit voluptatem accusantium /n doloremque laudanti totam raperiaeaque ipsa quaeab', btntext: 'Get Started Now", "btntext1": "Our Services" },
+            { "img": "../../../assets/img/banner/03.jpg", "title": "Take Great Idea To /n Growth Your  Business", "text": "Sedut perspiciatis unde omnis iste natus error sit voluptatem accusantium /n doloremque laudanti totam raperiaeaque ipsa quaeab', btntext: 'Get Started Now", "btntext1": "Our Services" },
+            { "img": "../../../assets/img/banner/04.jpg", "title": "Take Great Idea To /n Growth Your  Business", "text": "Sedut perspiciatis unde omnis iste natus error sit voluptatem accusantium /n doloremque laudanti totam raperiaeaque ipsa quaeab', btntext: 'Get Started Now", "btntext1": "Our Services" }
+        ]
+
+
+
+    }
+
+    
+}
+
