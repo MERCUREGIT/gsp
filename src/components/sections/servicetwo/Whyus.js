@@ -35,7 +35,7 @@ export default () => {
                             <div className="video-poster-one bg-img-c" style={{ backgroundImage: "url(" + img1 + ")" }}>
                             </div>
                             <div className="video-poster-two bg-img-c" style={{ backgroundImage: "url(" + img2 + ")" }}>
-                                <a onClick={openVideoModal} className="popup-video" role="button">
+                                <a onClick={openVideoModal} href="/" className="popup-video" role="button">
                                     <i className="fas fa-play" />
                                 </a>
                             </div>
