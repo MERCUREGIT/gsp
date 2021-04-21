@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-import { Link } from 'react-router-dom'
 import ModalVideo from 'react-modal-video'
 
 import img1 from '../../../assets/img/video-bg/poster-1.jpg'

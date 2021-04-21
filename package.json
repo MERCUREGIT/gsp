@@ -23,6 +23,7 @@
     "react-meta-tags": "^0.7.4",
     "react-modal-video": "^1.2.6",
     "react-progressbar": "^15.4.1",
+    "react-redux": "^7.2.3",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3",
     "react-slick": "^0.27.11",

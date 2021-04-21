@@ -1,7 +1,7 @@
 import React, { Fragment, useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import Navmenu from './Navmenu'
-import OffCanvas from './Offcanvas'
+// import OffCanvas from './Offcanvas'
 import classNames from 'classnames'
 import { connect } from "react-redux";
 import { changeLanguage } from "redux-multilanguage";
@@ -154,7 +154,7 @@ const Header = ({  currentLanguageCode, dispatch}) => {
                 <div className={classNames("offcanvas-overly", { "show-overly": classmethod })} onClick={removeClass} />
                 <div className="offcanvas-widget">
                     <Link to="#" className="offcanvas-close" onClick={removeClass} ><i className="fal fa-times" /></Link>
-                    <OffCanvas />
+                    {/* <OffCanvas /> */}
                 </div >
             </div >
         </Fragment>

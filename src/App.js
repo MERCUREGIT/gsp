@@ -6,11 +6,11 @@ import Preloader from './components/layouts/Preloader'
 // Pages
 import Hometwo from './components/pages/Hometwo'
 // import About from './components/pages/About'
-import Portfoliotwo from './components/pages/Portfoliotwo'
-import Portfoliodetail from './components/pages/Portfoliodetail'
+// import Portfoliotwo from './components/pages/Portfoliotwo'
+// import Portfoliodetail from './components/pages/Portfoliodetail'
 import Servicetwo from './components/pages/Servicetwo'
-import Servicedetail from './components/pages/Servicedetail'
-import Contact from './components/pages/Contact'
+// import Servicedetail from './components/pages/Servicedetail'
+// import Contact from './components/pages/Contact'
 // import Faq from './components/pages/Faq'
 
 
