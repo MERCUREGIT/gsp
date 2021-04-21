@@ -5,6 +5,22 @@ import Sidebar from '../../layouts/Servicesidebar'
 import servicebanner from '../../../assets/img/details/service-01.jpg'
 // import servicesmallbanner from '../../../assets/img/details/service-02.jpg'
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 export default ({page}) => {
 
     return (
