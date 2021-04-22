@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import ModalVideo from 'react-modal-video'
 
-import img1 from '../../../assets/img/video-bg/poster-1.jpg'
+import img1 from '../../../assets/img/video-bg/poster-2.jpg'
 import img2 from '../../../assets/img/video-bg/poster-2.jpg'
 
 export default () => {

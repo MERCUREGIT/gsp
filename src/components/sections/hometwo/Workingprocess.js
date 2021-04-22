@@ -27,7 +27,7 @@ export default () => {
                             {/* Section Title */}
                             <div className="section-title left-border mb-30">
                                 <span className="title-tag">Working Process</span>
-                                <h2 className="title">Our workin process</h2>
+                                <h2 className="title">Our Working Process</h2>
                             </div>
                             <p>
                             GSP has an established, well-organized and coordinated workflow for the realization of your services.

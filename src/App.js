@@ -24,7 +24,6 @@ import {connect} from 'react-redux'
 
 class App extends Component {
 
-  state = {language: 'en'}
   componentDidMount(){
     this.loadLanguages()
   }

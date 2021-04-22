@@ -22,15 +22,14 @@ export default () => {
                                     <h2 className="title">Need Any Help For Business &amp; Consulting</h2>
                                 </div>
                                 <p>
-                                    But I must explain to you how all this mistaken idea of denouncing pleasure and praising
-                                    pain was
+                                Global Service and Printing is a consultancy and printing company based in Cameroon. We offer a wide range of services in the domain of engineering and printing. In the engineering sector, we offer radio frequency engineering consultancy. In the printing domain, we offer all the services of a printing press: printing, editing, colour separation and publishing 
             </p>
                                 <ul>
                                     <li className="phone">
-                                        <Link to="tel:+0123456789"><i className="far fa-phone" />+012 (345) 6789</Link>
+                                        <Link to="tel:+0123456789"><i className="far fa-phone" />+237-674-629 / 242-721-707</Link>
                                     </li>
-                                    <li><i className="far fa-envelope-open" /><Link to="#">support@gmail.com</Link></li>
-                                    <li><i className="far fa-map-marker-alt" />Broklyn Street USA</li>
+                                    <li><i className="far fa-envelope-open" /><Link to="globalservicesandprinting@gmail.com ">globalservicesandprinting@gmail.com </Link></li>
+                                    <li><i className="far fa-map-marker-alt" />India</li>
                                 </ul>
                             </div>
                         </div>
@@ -79,7 +78,7 @@ export default () => {
             </div>
             <div className="container-fluid container-1600">
                 <div className="contact-map">
-                    <iframe title="map" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d91364.00338430358!2d-73.9756152824982!3d40.698190064837625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1598380219280!5m2!1sen!2sbd" style={{ border: 0 }} allowFullScreen aria-hidden="false" tabIndex={0} />
+                <iframe title="map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7960.651231760249!2d11.518636!3d3.9531400000000003!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x42cdb742c77af0f9!2sICT%20University!5e0!3m2!1sen!2sus!4v1619101129924!5m2!1sen!2sus"  style={{ border: 0 }} allowFullScreen aria-hidden="false" tabIndex={0} />
                 </div>
             </div>
         </section>
