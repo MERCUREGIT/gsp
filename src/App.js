@@ -9,8 +9,8 @@ import Hometwo from './components/pages/Hometwo'
 // import Portfoliotwo from './components/pages/Portfoliotwo'
 // import Portfoliodetail from './components/pages/Portfoliodetail'
 import Servicetwo from './components/pages/Servicetwo'
-// import Servicedetail from './components/pages/Servicedetail'
-// import Contact from './components/pages/Contact'
+import Servicedetail from './components/pages/Servicedetail'
+import Contact from './components/pages/Contact'
 // import Faq from './components/pages/Faq'
 
 
@@ -51,9 +51,9 @@ class App extends Component {
           {/* <Route path="/portfolio" component={Portfoliotwo} /> */}
           {/* <Route path="/portfoliodetail" component={Portfoliodetail} /> */}
           <Route path="/services" exact render={() =>  <Servicetwo/>} />
-          {/* <Route path="/services/:name" render={(routeProps) => <Servicedetail {...routeProps} page={routeProps.match.params.name} />}/> */}
+          <Route path="/services/:name" render={(routeProps) => <Servicedetail {...routeProps} page={routeProps.match.params.name} />}/>
           {/* <Route path="/servicedetail" component={Servicedetail} /> */}
-          {/* <Route path="/contact" component={Contact} /> */}
+          <Route path="/contact" component={Contact} />
           {/* <Route path="/faq" component={Faq} /> */}
         </Switch>
       </Router>
